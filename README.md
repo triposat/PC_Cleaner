@@ -10,7 +10,7 @@
 </p>
 
 ## Description: 
-- Let's [**look**](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/BasicPythonScripts/PC%20Cleaner/pc_cleaner.py) at a Python script that will place all of your files in the appropriate folder.
+- Let's [**look**](https://github.com/Iamtripathisatyam/PC_Cleaner/blob/main/pc_cleaner.py) at a Python script that will place all of your files in the appropriate folder.
 - This script will first list all of the files and place them in folders based on their extensions, such as "**.pdf**" which will be placed in the **PDFs folder**, and so on for all of the files.
 - Finally, all of the files will be placed in their proper directories.
 
